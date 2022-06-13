@@ -1,4 +1,7 @@
 GoでAtCoderの過去問を解く
+
+account (https://atcoder.jp/users/ttai)
+
 ```
-go run file_name.go
+go run main.go
 ```
